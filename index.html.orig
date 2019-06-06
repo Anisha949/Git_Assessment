@@ -1,0 +1,6 @@
+this is an html file
+<<<<<<< HEAD
+this is used for the web interface
+=======
+this will enhances the web interface
+>>>>>>> index.html changed in the first environment
